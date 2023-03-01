@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/encabezadoActivity2"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:textColor="#FF5722"
+        android:fontFamily="casual"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText4"
+        android:textAlignment="center"
+        android:textColor="#FF5722"
+        android:fontFamily="casual"
+        android:textSize="18dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText5"
+        android:textAlignment="center"
+        android:textColor="#FF5722"
+        android:fontFamily="casual"
+        android:textSize="18dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText6"
+        android:textAlignment="center"
+        android:textColor="#FF5722"
+        android:fontFamily="casual"
+        android:textSize="18dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/textView2"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:textColor="#FF5722"
+        android:fontFamily="casual"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/textView3"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:textColor="#FF5722"
+        android:fontFamily="casual"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button3"
+        android:fontFamily="casual"
+        android:textSize="18dp"
+        android:textColor="#FFFFFF"
+        android:id="@+id/button3"/>
+
+</LinearLayout>

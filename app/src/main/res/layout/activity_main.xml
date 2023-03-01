@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/encabezadoActivity1"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:textColor="#FF5722"
+        android:fontFamily="casual"/>
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/unnamedrpc"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/textView1"
+        android:fontFamily="casual"
+        android:textSize="18dp"
+        android:textColor="#FF5722"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:inputType="text"
+        android:hint="@string/editText1"
+        android:fontFamily="casual"
+        android:id="@+id/editText1"
+        android:textColor="#FF5722"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/textView4"
+        android:fontFamily="casual"
+        android:textSize="18dp"
+        android:textColor="#FF5722"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:inputType="text"
+        android:hint="@string/editText4"
+        android:fontFamily="casual"
+        android:id="@+id/editText2"
+        android:textColor="#FF5722"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/textView5"
+        android:fontFamily="casual"
+        android:textSize="18dp"
+        android:textColor="#FF5722"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:inputType="text"
+        android:hint="@string/editText5"
+        android:fontFamily="casual"
+        android:id="@+id/editText3"
+        android:textColor="#FF5722"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:text="@string/button1"
+        android:id="@+id/button1"
+        android:textColor="#FFFFFF"
+        android:fontFamily="casual"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:text="@string/button2"
+        android:id="@+id/button2"
+        android:textColor="#FFFFFF"
+        android:fontFamily="casual"/>
+
+</LinearLayout>

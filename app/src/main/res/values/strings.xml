@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+
+    <string name="encabezadoActivity1">Bienvenido</string>
+    <string name="textView1">Dame tu nombre:</string>
+    <string name="editText1">Escribe aquí tu nombre</string>
+    <string name="textView4">Dame tu primer apellido:</string>
+    <string name="editText4">Escribe aquí tu apellido paterno</string>
+    <string name="textView5">Dame tu segundo apellido:</string>
+    <string name="editText5">Escribe aquí tu apellido materno</string>
+    <string name="button1">Saludo</string>
+    <string name="button2">Salir</string>
+
+    <string name="encabezadoActivity2">Bienvenido</string>
+    <string name="textView2">Digamos todos juntos</string>
+    <string name="textView3">Hola mundo Android</string>
+    <string name="button3">Regresar</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HiWorld</string>
+
+    <string name="encabezadoActivity1">Welcome</string>
+    <string name="textView1">Give me your name:</string>
+    <string name="editText1">Here is your name</string>
+    <string name="textView4">Give me your first last name:</string>
+    <string name="editText4">Write here your paternal last name</string>
+    <string name="textView5">give me your second last name:</string>
+    <string name="editText5">Write here your maternal last name</string>
+    <string name="button1">Greeting</string>
+    <string name="button2">Exit</string>
+
+    <string name="encabezadoActivity2">Welcome</string>
+    <string name="textView2">Lets all say together</string>
+    <string name="textView3">Hello World Android</string>
+    <string name="button3">Back</string>
+
+</resources>
